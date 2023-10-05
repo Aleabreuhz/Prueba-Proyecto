@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Peluqueria ID="72522">
+    <Direccion>Calle Gobernador Acuña</Direccion>
+    <Empleados>
+        <empleado>
+            <emp:nombre></emp:nombre>
+            <emp:DNI></emp:DNI>
+            <emp:f.nacmt></emp:f.nacmt>
+        </empleado>
+        <empleado>
+            <emp:nombre></emp:nombre>
+            <emp:DNI></emp:DNI>
+            <emp:f.nacmt></emp:f.nacmt>
+        </empleado>
+    </Empleados>
+    <Clientes>
+        <cliente>
+            <cli:nombre></cli:nombre>
+            <cli:numero></cli:numero>
+            <cli:correo></cli:correo>
+        </cliente>
+        <cliente>
+            <cli:nombre></cli:nombre>
+            <cli:numero></cli:numero>
+            <cli:correo></cli:correo>
+        </cliente>
+    </Clientes>
+</Peluqueria>
